@@ -5,35 +5,35 @@
 #### It includes many sorting algorithms and advance techniques for solving problems
 
 ```
-1. Implementation and Time analysis of sorting algorithms. Bubble sort, Selection sort, Insertion sort, Merge sort and Quicksort
+1.[] Implementation and Time analysis of sorting algorithms. Bubble sort, Selection sort, Insertion sort, Merge sort and Quicksort
 
-2. Implementation and Time analysis of linear and binary search algorithm
+2.[X] Implementation and Time analysis of linear and binary search algorithm
 
-3. Implementation of max-heap sort algorithm
+3.[] Implementation of max-heap sort algorithm
 
-4. Implementation and Time analysis of factorial program using iterative and recursive method
+4.[X] Implementation and Time analysis of factorial program using iterative and recursive method
 
-5. Implementation of a knapsack problem using dynamic programming
+5.[] Implementation of a knapsack problem using dynamic programming
 
-6. Implementation of chain matrix multiplication using dynamic programming
+6.[] Implementation of chain matrix multiplication using dynamic programming
 
-7. Implementation of making a change problem using dynamic programming
+7.[] Implementation of making a change problem using dynamic programming
 
-8. Implementation of a knapsack problem using greedy algorithm
+8.[] Implementation of a knapsack problem using greedy algorithm
 
-9. Implementation of Graph and Searching (DFS and BFS).
+9.[] Implementation of Graph and Searching (DFS and BFS).
 
-10. Implement prim’s algorithm
+10.[] Implement prim’s algorithm
 
-11. Implement kruskal’s algorithm
+11.[] Implement kruskal’s algorithm
 
-12. Implement LCS problem.
+12.[] Implement LCS problem.
 
-13. Virtual Lab Practical: Kunth – Morris – Partt – string  matching algorithm
+13.[] Virtual Lab Practical: Kunth – Morris – Partt – string  matching algorithm
 
-14. OEP:
+14.[] OEP:
 
-15. ALA
+15.[] ALA
 ```
 
 To Run This code locally, you need to install GCC to complie C code, follow this blog for installation [blog by digital ocean](https://www.digitalocean.com/community/tutorials/c-compiler-windows-gcc)
