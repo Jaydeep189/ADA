@@ -35,3 +35,15 @@
 
 15. ALA
 ```
+
+To Run This code locally, you need to install GCC to complie C code, follow this blog for installation [blog by digital ocean](https://www.digitalocean.com/community/tutorials/c-compiler-windows-gcc)
+
+cd into any of the practicals and run the following cmd
+
+```
+gcc -o app main.c library.c
+```
+
+```
+app
+```
