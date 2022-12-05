@@ -23,17 +23,17 @@
 
 - [ ] 9. Implementation of Graph and Searching (DFS and BFS).
 
-1- [ ] 0. Implement prim’s algorithm
+- [ ] 10. Implement prim’s algorithm
 
-1- [ ] 1. Implement kruskal’s algorithm
+- [ ] 11. Implement kruskal’s algorithm
 
-1- [ ] 2. Implement LCS problem.
+- [ ] 12. Implement LCS problem.
 
-1- [ ] 3. Virtual Lab Practical: Kunth – Morris – Partt – string  matching algorithm
+- [ ] 13. Virtual Lab Practical: Kunth – Morris – Partt – string  matching algorithm
 
-1- [ ] 4. OEP:
+- [ ] 14. OEP:
 
-1- [ ] 5. ALA
+- [ ] 15. ALA
 ```
 
 To Run This code locally, you need to install GCC to complie C code, follow this blog for installation [blog by digital ocean](https://www.digitalocean.com/community/tutorials/c-compiler-windows-gcc)
