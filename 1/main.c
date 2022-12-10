@@ -35,5 +35,19 @@ void main()
     t = clock() - t;
     double time_taken_insertion = ((double)t)/CLOCKS_PER_SEC; // in seconds
     printf("\n\ninsertion_sort() took %f seconds to execute \n", time_taken_insertion);
+
+     // merge sort
+    t = clock();
+    merge_sort(arr, 0, arr_len);
+    t = clock() - t;
+    double time_taken_merge = ((double)t)/CLOCKS_PER_SEC; // in seconds
+    printf("\n\nmerge_sort() took %f seconds to execute \n", time_taken_merge);
+
+    // quick sort
+    t = clock();
+    quick_sort(arr, 0, arr_len);
+    t = clock() - t;
+    double time_taken_quick = ((double)t)/CLOCKS_PER_SEC; // in seconds
+    printf("\n\nquick_sort() took %f seconds to execute \n", time_taken_quick);
 }
 

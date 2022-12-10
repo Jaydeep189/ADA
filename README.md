@@ -4,8 +4,7 @@
 
 #### It includes many sorting algorithms and advance techniques for solving problems
 
-
-- [ ] 1. Implementation and Time analysis of sorting algorithms. Bubble sort, Selection sort, Insertion sort, Merge sort and Quicksort
+- [x] 1. Implementation and Time analysis of sorting algorithms. Bubble sort, Selection sort, Insertion sort, Merge sort and Quicksort
 
 - [x] 2. Implementation and Time analysis of linear and binary search algorithm
 
@@ -29,12 +28,11 @@
 
 - [ ] 12. Implement LCS problem.
 
-- [ ] 13. Virtual Lab Practical: Kunth – Morris – Partt – string  matching algorithm
+- [ ] 13. Virtual Lab Practical: Kunth – Morris – Partt – string matching algorithm
 
 - [ ] 14. OEP:
 
 - [ ] 15. ALA
-
 
 To Run This code locally, you need to install GCC to complie C code, follow this blog for installation [blog by digital ocean](https://www.digitalocean.com/community/tutorials/c-compiler-windows-gcc)
 
